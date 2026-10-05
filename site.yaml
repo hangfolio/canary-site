@@ -3,11 +3,11 @@
 # Lines marked "# example" are the made-up demo person's. Replace the five marked "required";
 # change or delete the others. Help: https://github.com/hangfolio/hangfolio/blob/v1/docs/site-yaml.md
 
-name: "Rowan Vale"                                     # example (required): your name
+name: "Mira Okafor"                                     # example (required): your name
 tagline: "I build storage systems that stay correct when machines fail."   # example (required)
 role: "PhD student in Computer Science"                # example (required): your position
 affiliation: { name: "Example University", url: "https://example.edu" }   # example (required); or just "Your University"
-email: "rowan@example.edu"                             # example (required): your email address
+email: "mira.okafor@canary.dev"                             # example (required): your email address
 location: "Port Alder, WA"                             # example: change or delete
 # pronouns: "she/her"                                  # optional: remove the # to show
 # nameVariants: ["R. Vale"]                            # optional: other spellings of your name in author lists
