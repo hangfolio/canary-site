@@ -4,9 +4,9 @@
 # change or delete the others. Help: https://github.com/hangfolio/hangfolio/blob/v1/docs/site-yaml.md
 
 name: "Mira Okafor"                                     # example (required): your name
-tagline: "I build storage systems that stay correct when machines fail."   # example (required)
-role: "PhD student in Computer Science"                # example (required): your position
-affiliation: { name: "Example University", url: "https://example.edu" }   # example (required); or just "Your University"
+tagline: "I study how coral reefs recover after heat waves."   # example (required)
+role: "Postdoctoral researcher in marine ecology"                # example (required): your position
+affiliation: "Canary Bay Institute"   # example (required); or just "Your University"
 email: "mira.okafor@canary.dev"                             # example (required): your email address
 location: "Port Alder, WA"                             # example: change or delete
 # pronouns: "she/her"                                  # optional: remove the # to show
